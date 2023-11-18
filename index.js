@@ -3,7 +3,7 @@ const apiurl="https://api.openweathermap.org/data/2.5/weather?units=metric";
 const searchBox=document.querySelector(".search input");
 const searchBtn=document.querySelector(".search button");
 const weatherIcon=document.querySelector(".weatherIcon");
-;
+
 
 const geocodeurl="http://api.openweathermap.org/geo/1.0/direct?";
 
